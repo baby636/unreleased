@@ -23,8 +23,8 @@
   "dependencies": {
     "@slack/web-api": "^5.0.0",
     "actions-toolkit": "^2.0.0",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
     "https": "^1.0.0",
     "node-fetch": "^2.6.1",
     "prettier": "^1.19.1",
