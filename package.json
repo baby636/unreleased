@@ -22,7 +22,7 @@
   "homepage": "https://github.com/electron/unreleased#readme",
   "dependencies": {
     "@slack/web-api": "^5.0.0",
-    "actions-toolkit": "^2.0.0",
+    "actions-toolkit": "^5.0.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "https": "^1.0.0",
